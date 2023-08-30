@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">firstApp</string>
+    <string name="hello">Olá</string>
+    <string name="hola">Olá</string>
+    <string name="hallo">Olá</string>
+    <string name="bonjour">Olá</string>
+    <string name="ciao">Olá</string>
+
+
+</resources>
